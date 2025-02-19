@@ -24,7 +24,7 @@ export default function Home() {
   );
 }
 
-export const SearchIcon = (props: any) => {
+const SearchIcon = (props: any) => {
   return (
     <svg
       className="lucide lucide-search"
